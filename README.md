@@ -34,6 +34,7 @@ Contributions welcome — see [Contributing](#contributing).
 - [OpenAI Evals](https://github.com/openai/evals) — Framework plus an open registry of benchmarks.
 - [simple-evals](https://github.com/openai/simple-evals) — Minimal-dependency reference scripts for MMLU, GPQA, HumanEval, and more.
 - [promptfoo](https://github.com/promptfoo/promptfoo) — Local-first prompt/LLM testing, scoring, and red-teaming with CI/CD integration.
+- [Scorio](https://github.com/mohsenhariri/scorio) - Statistical scoring of repeated reasoning outcomes with posterior performance estimates, uncertainty, and weighted rubrics.
 
 ## Reasoning Benchmarks
 
